@@ -14,3 +14,5 @@ Git tracks the changes
 Git add new contents 
 
 Test branch information
+
+Creating a new branch is quick AND simple.
