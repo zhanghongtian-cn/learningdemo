@@ -12,3 +12,5 @@ Git has a mutable index called stage.
 Git tracks the changes
 
 Git add new contents 
+
+Test branch information
